@@ -1,1 +1,3 @@
-export const serverUrl = "http://localhost:3000";
+//server address
+
+export const serverUrl = "https://projectfair-backend-xyq9.onrender.com";
